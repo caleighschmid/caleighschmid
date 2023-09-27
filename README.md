@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi!  I'm Caleigh (she/her).  I'm originally from Allentown, PA, and went to Lafayette College, majoring in Neuroscience and Spanish.
+
+Last year, I moved to Granada, Spain and taught English in an elementary school.  During the ten months that I lived in Spain, I was able to travel all over Europe and saw some amazing places, including Wroclaw, Krakow, Copenhagen, Amsterdam, Vienna, Bordeaux, Geneva, and a handful of spots in Ireland.
+
+I've always had a passion for being creative, and I'm very excited to apply that creativity to the technology space.  Over the next 14 weeks I'll be participating in a full-stack development bootcamp, learning Javascript and other programming languages and skills.
+
+Fun fact about me: I loved doing musical theater in high school, and when I was a junior, I performed on a televised awards show for high school musical theater in the Lehigh Valley (as Julie from 'Carousel').
