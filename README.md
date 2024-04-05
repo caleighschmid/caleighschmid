@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 🌸🐬
 
 <!--
 **caleighschmid/caleighschmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi!  I'm Caleigh (she/her).  I'm originally from Allentown, PA, and went to Lafayette College, majoring in Neuroscience and Spanish.
+I'm Caleigh (she/her).  I'm originally from Allentown, PA, and went to Lafayette College, majoring in Neuroscience and Spanish.
 
 I've always had a passion for being creative, and I'm very excited to apply that creativity to the technology space.  I just completed a 14-week full-stack coding bootcamp at Tech Elevator, where I learned Java, Javascript, HTML, CSS, PostgreSQL and more.
 
